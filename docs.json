@@ -14,7 +14,7 @@
         "tab": "OsmyAccount",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Comienzo",
             "pages": [
               "introduction",
               "quickstart",
