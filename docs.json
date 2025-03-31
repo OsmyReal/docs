@@ -56,9 +56,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Tienda",
+          "href": "https://whop.com/osmyreal/",
+          "icon": "shop-car"
         },
         {
           "anchor": "Comunidad",
