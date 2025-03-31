@@ -61,13 +61,13 @@
           "icon": "book-open-cover"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Comunidad",
+          "href": "https://discord.gg/osmyreal-810267207333838858",
+          "icon": "discord"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://www.osmyreal.com",
           "icon": "newspaper"
         }
       ]
