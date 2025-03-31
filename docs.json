@@ -16,8 +16,8 @@
           {
             "group": "Comienzo",
             "pages": [
-              "introduction",
-              "quickstart",
+              "introduccion",
+              "obtener-cuenta",
               "development"
             ]
           },
