@@ -27,10 +27,7 @@
             "pages": [
               "essentials/problemas-acceso",
               "essentials/no-aplicaciones",
-              "essentials/cerrar-sesion",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "essentials/cerrar-sesion"
             ]
           }
         ]
