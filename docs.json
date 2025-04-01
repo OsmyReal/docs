@@ -6,7 +6,7 @@
     "primary": "#16A34A",
     "light": "#07C983",
     "dark": "#15803D",
-    "background-dark": "#ffffff"
+    "background": "#ffffff"
   },
   "favicon": "/favicon.ico",
   "navigation": {
